@@ -1,6 +1,7 @@
 #!/bin/bash
 #Name : Scan.sh
-#Author: Shan Prashanth
+#Author: hAK47
+#web: www.hak47.com
 #Version: v1.0
 
 clear
