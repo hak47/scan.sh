@@ -72,5 +72,5 @@ echo "Starting enum4Linux"
 echo $under 
 enum4linux $ip > $file-enum.txt  2>/dev/null
 echo
-echo "All Acanning and Discovery Done!"
+echo "All Scanning and Discovery Done!"
 
